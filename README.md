@@ -21,7 +21,11 @@
 
 ## Live Demo (if available)
 
-[calculator-web-app](https://temesgena.github.io/my-list/dist/)
+[Meme-generator](https://temesgena.github.io/my-list/dist/)
+
+## Link to Figma template
+
+[Meme-generator-figma](https://www.figma.com/file/JwJk0kYlHV9lSbR5FdwdSI/Meme-Generator-Copy)
 
 ### Prerequisites
 
